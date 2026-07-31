@@ -1,6 +1,82 @@
 # 💫 About Me:
-# Hi there 👋, I'm Priyasmit Ganguly<br><br>🎓 I'm a Computer Science undergraduate passionate about building scalable software and solving challenging problems.<br><br>## 🚀 Currently Working On<br>- Backend development projects with modern technologies<br>- AI-powered applications and real-world problem solving<br>- Building full-stack applications with a backend-first approach<br><br>## 🌱 Currently Learning<br>- DSA<br>- System Design fundamentals<br>- Backend Engineering<br>- Databases, APIs, and Distributed Systems<br>- Cloud & DevOps fundamentals<br><br>## 👯 Looking to Collaborate On<br>- Open Source Projects<br>- AI/ML Applications<br>- Backend Systems<br>- Full Stack Web Applications<br>- Hackathons and Startup Projects<br><br>## 🤝 Looking for Help With<br>- System Design<br>- Distributed Systems<br>- High-performance Backend Architecture<br>- Open Source Contributions<br><br>## 💡 Interests<br>- Backend Engineering<br>- Artificial Intelligence<br>- Software Architecture<br>- Cloud Computing<br>- Scalable Systems<br><br>## 💬 Ask Me About<br>- C++<br>- Python<br>- DSA<br>- Backend Development<br>- APIs<br>- Git & GitHub<br>- Problem Solving<br><br>## 🎯 Goals<br>- Become an exceptional Backend Engineer<br>- Contribute to impactful Open Source projects<br>- Build production-grade software<br>- Land internships at top startups and global tech companies<br><br>## ⚡ Fun Fact<br>I enjoy breaking down difficult algorithmic problems into simple observations and I'm always building something new while continuously improving my problem-solving skills.
+# Hi there 👋, I'm Priyasmit Ganguly
 
+🎓 I'm a Computer Science undergraduate passionate about building scalable software and solving challenging problems.
+
+---
+
+## 🚀 Currently Working On
+
+- Backend development projects with modern technologies
+- AI-powered applications and real-world problem solving
+- Building full-stack applications with a backend-first approach
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms (LeetCode + Striver A2Z)
+- System Design
+- Backend Engineering
+- Databases & SQL
+- APIs & Distributed Systems
+- Cloud & DevOps Fundamentals
+
+---
+
+## 👯 Looking to Collaborate On
+
+- Open Source Projects
+- AI/ML Applications
+- Backend Systems
+- Full Stack Web Applications
+- Startup Projects & Hackathons
+
+---
+
+## 🤝 Looking for Help With
+
+- System Design
+- Distributed Systems
+- High-performance Backend Architecture
+- Open Source Contributions
+
+---
+
+## 💡 Interests
+
+- Backend Engineering
+- Artificial Intelligence
+- Software Architecture
+- Cloud Computing
+- Scalable Systems
+
+---
+
+## 💬 Ask Me About
+
+- C++
+- Python
+- Data Structures & Algorithms
+- Backend Development
+- REST APIs
+- Git & GitHub
+- Problem Solving
+
+---
+
+## 🎯 Goals
+
+- Become an exceptional Backend Engineer
+- Contribute to impactful Open Source projects
+- Build production-grade software
+- Land internships at top startups and global tech companies
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy breaking down difficult algorithmic problems into simple observations and I'm always building something new while continuously improving my problem-solving skills.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ohheyraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PriyasmitGanguly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyasmit.work.ganguly@gmail.com) 
