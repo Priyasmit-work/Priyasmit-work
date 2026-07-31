@@ -15,7 +15,7 @@
 
 ## 🌱 Currently Learning
 
-- Data Structures & Algorithms (LeetCode + Striver A2Z)
+- Data Structures & Algorithms
 - System Design
 - Backend Engineering
 - Databases & SQL
